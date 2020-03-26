@@ -1,0 +1,7 @@
+django
+gunicorn
+django-heroku
+six
+pillow
+psycopg2-binary
+
